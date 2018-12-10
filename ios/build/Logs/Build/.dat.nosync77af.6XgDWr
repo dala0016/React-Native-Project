@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>F5CD0774-86BE-4902-90A3-DA93C3BA9966</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F5CD0774-86BE-4902-90A3-DA93C3BA9966.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>BonafideRestaurants project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BonafideRestaurants</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project BonafideRestaurants with scheme BonafideRestaurants and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>566038958.71382797</real>
+			<key>timeStoppedRecording</key>
+			<real>566039471.45766699</real>
+			<key>title</key>
+			<string>Building project BonafideRestaurants with scheme BonafideRestaurants and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>F5CD0774-86BE-4902-90A3-DA93C3BA9966</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
