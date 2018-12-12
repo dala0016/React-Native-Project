@@ -47,12 +47,12 @@ export class DetailsScene extends Component {
 
     styles = {
       property: {
-        color: '#777',
-        fontSize: 20
+        color: '#999',
+        fontSize: 18
       },
       value: {
         color: '#333',
-        fontSize: 22
+        fontSize: 16
       },
       item: {
         margin: 10,
@@ -109,10 +109,10 @@ export class DetailsScene extends Component {
             margin: 10,
             height: 300,
             flexGrow: 0,
-            backgroundColor: 'white',
+            backgroundColor: '#F5F5F5',
             shadowOpacity: 0.75,
             shadowRadius: 5,
-            shadowColor: 'black',
+            shadowColor: '050505',
             shadowOffset: { height: 0, width: 0 }
           }}
         >
@@ -287,14 +287,14 @@ export class ListScene extends Component {
         <TouchableOpacity
           style={{
             alignItems: 'center',
-            backgroundColor: '#0092f9',
+            backgroundColor: '#D32323',
             padding: 10
          }}
          onPress={this.findRestaurants.bind(this)}
        >
          <Text
           style={{
-            color: 'white'
+            color: '#F5F5F5'
           }}
          >Find restaurants nearby ...</Text>
        </TouchableOpacity>
@@ -333,7 +333,7 @@ export class ListScene extends Component {
                 height: 100,
                 alignItems: 'center',
                 justifyContent: 'center',
-                backgroundColor: '#777777',
+                backgroundColor: '#999999',
                 borderRadius: 10
               }}>
               <ActivityIndicator
