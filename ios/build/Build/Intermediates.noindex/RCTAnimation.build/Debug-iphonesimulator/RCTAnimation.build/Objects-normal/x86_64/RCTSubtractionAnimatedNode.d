@@ -1,5 +1,5 @@
 dependencies: \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTSubtractionAnimatedNode.m \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTSubtractionAnimatedNode.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTSubtractionAnimatedNode.m \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTSubtractionAnimatedNode.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h

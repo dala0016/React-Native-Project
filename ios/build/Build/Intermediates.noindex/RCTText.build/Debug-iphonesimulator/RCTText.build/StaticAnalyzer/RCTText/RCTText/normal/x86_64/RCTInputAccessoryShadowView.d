@@ -1,19 +1,19 @@
 dependencies: \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryShadowView.m \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryShadowView.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryShadowView.m \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryShadowView.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h

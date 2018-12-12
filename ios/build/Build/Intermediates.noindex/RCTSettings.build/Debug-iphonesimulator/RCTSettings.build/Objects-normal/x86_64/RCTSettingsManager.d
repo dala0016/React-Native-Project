@@ -1,22 +1,22 @@
 dependencies: \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/node_modules/react-native/Libraries/Settings/RCTSettingsManager.m \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/node_modules/react-native/Libraries/Settings/RCTSettingsManager.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/node_modules/react-native/Libraries/Settings/RCTSettingsManager.m \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/node_modules/react-native/Libraries/Settings/RCTSettingsManager.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h

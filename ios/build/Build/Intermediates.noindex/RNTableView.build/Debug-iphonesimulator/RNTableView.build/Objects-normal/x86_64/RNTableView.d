@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/node_modules/react-native-tableview/RNTableView/RNTableView.m \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/node_modules/react-native-tableview/RNTableView/RNTableView.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  ../react-native/React/Views/UIView+React.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/node_modules/react-native-tableview/RNTableView/JSONDataSource.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/node_modules/react-native-tableview/RNTableView/RNCellView.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/node_modules/react-native-tableview/RNTableView/RNTableViewCell.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/node_modules/react-native-tableview/RNTableView/RNTableFooterView.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/node_modules/react-native-tableview/RNTableView/RNTableHeaderView.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/node_modules/react-native-tableview/RNTableView/RNReactModuleCell.h

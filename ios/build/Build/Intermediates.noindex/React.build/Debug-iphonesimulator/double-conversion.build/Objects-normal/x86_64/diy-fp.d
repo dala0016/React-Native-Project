@@ -1,4 +1,4 @@
 dependencies: \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/node_modules/react-native/third-party/double-conversion-1.1.6/src/diy-fp.cc \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/node_modules/react-native/third-party/double-conversion-1.1.6/src/diy-fp.h \
-  /Volumes/DATA/Joki_work/react-native/20181209_karandeep_final_project/project/BonafideRestaurants/node_modules/react-native/third-party/double-conversion-1.1.6/src/utils.h
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/node_modules/react-native/third-party/double-conversion-1.1.6/src/diy-fp.cc \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/node_modules/react-native/third-party/double-conversion-1.1.6/src/diy-fp.h \
+  /Users/karandeepdalam/Downloads/BR/BonafideRestaurants2018/node_modules/react-native/third-party/double-conversion-1.1.6/src/utils.h
