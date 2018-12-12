@@ -60,7 +60,8 @@ export class DetailsScene extends Component {
         alignItems: 'center'
       }
     };
-
+      
+    let img = item.image_url; 
     let ratingIcon;
 
     switch(rating) {
@@ -103,7 +104,7 @@ export class DetailsScene extends Component {
         style={{
           paddingTop: 64
         }}>
-        {item.image_url != '' && 
+        {img != '' && 
         <View
           style={{
             margin: 10,
@@ -118,7 +119,7 @@ export class DetailsScene extends Component {
         >
           <Image
             source={{
-              uri: item.image_url
+              uri: img
             }}
             style={{
               width: '100%',
